@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanif Adeyemi</h1>
-<h3 align="center">A seasoned frontend developer from Nigeria</h3>
+<h3 align="center">A seasoned freelance developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanif1201&label=Profile%20views&color=0e75b6&style=flat" alt="hanif1201" /> </p>
 
