@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanif1201" alt="hanif1201" /></a> </p>
 
-- 🌱 I’m currently learning **Back-end development**
+- 🌱 I’m currently learning **ML**
 
 - 👨‍💻 All of my projects are available at [hanifdev.com](hanifdev.com)
 
