@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Hanif, a season Freelance Fullstack Software Developer, computer Science Student, I recently took an interest in machine learning, and I am currently upskilling myself with that.
+I am Hanif, a season Freelance Fullstack Software Developer and Computer Science Student, I recently took an interest in machine learning, and I am currently upskilling myself with that.
 
 
 ## 🌐 Socials:
